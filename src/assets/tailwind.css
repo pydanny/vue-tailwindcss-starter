@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
+
+.yellow-header {
+    @apply text-4xl text-orange-300;
+}
+
 @tailwind utilities;
